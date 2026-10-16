@@ -1,0 +1,18 @@
+<svg width="640" height="250" viewBox="0 0 640 250" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep3arr2" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<rect x="150" y="20" width="340" height="52" rx="8" fill="#fff" stroke="#cdd3dc"></rect>
+<line x1="320" y1="20" x2="320" y2="72" stroke="#c0392b" stroke-width="2" stroke-dasharray="5 4"></line>
+<text x="235" y="52" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">LEFT visual field</text>
+<text x="405" y="52" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">RIGHT visual field</text>
+<path d="M235 76 C270 110 350 110 400 130" fill="none" stroke="#13294b" stroke-width="1.6" marker-end="url(#ep3arr2)"></path>
+<path d="M405 76 C370 110 290 110 240 130" fill="none" stroke="#13294b" stroke-width="1.6" marker-end="url(#ep3arr2)"></path>
+<rect x="150" y="136" width="160" height="70" rx="8" fill="#eef4fb" stroke="#1c5fb0"></rect>
+<text x="230" y="158" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">LEFT hemisphere</text>
+<text x="230" y="176" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">speech lives here →</text>
+<text x="230" y="194" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">can <tspan font-weight="700">say</tspan> what it saw</text>
+<rect x="330" y="136" width="160" height="70" rx="8" fill="#eefaf2" stroke="#1f8a4c"></rect>
+<text x="410" y="158" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">RIGHT hemisphere</text>
+<text x="410" y="176" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">controls the left hand →</text>
+<text x="410" y="194" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">can <tspan font-weight="700">draw</tspan> what it saw</text>
+<text x="320" y="228" text-anchor="middle" font-size="11.5" fill="#c0392b" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">corpus callosum cut → the two halves cannot exchange the information</text>
+</svg>

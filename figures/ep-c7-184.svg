@@ -1,0 +1,42 @@
+<svg width="930" height="210" viewBox="0 0 930 210" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep7arr1" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<text x="450" y="16" text-anchor="middle" font-size="12" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Language is a hierarchy: units at one level combine to build the next, bigger level.</text>
+<g font-size="12.5">
+<rect x="25" y="34" width="154" height="105" rx="8" fill="#eef4fb" stroke="#1c5fb0" stroke-width="1.6"></rect>
+<text x="102" y="58" text-anchor="middle" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">PHONEMES</text>
+<text x="102" y="78" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">smallest units</text>
+<text x="102" y="92" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">of sound</text>
+<text x="102" y="118" text-anchor="middle" font-size="11" font-style="italic" fill="#1c5fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">/d/ /ɒ/ /g/ /z/</text>
+
+<rect x="199" y="34" width="174" height="105" rx="8" fill="#fbf6e8" stroke="#c9a227" stroke-width="1.6"></rect>
+<text x="286" y="58" text-anchor="middle" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">MORPHEMES</text>
+<text x="286" y="78" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">smallest units</text>
+<text x="286" y="92" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">of MEANING</text>
+<text x="286" y="118" text-anchor="middle" font-size="11" font-style="italic" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">dog + plural -s</text>
+
+<rect x="373" y="34" width="174" height="105" rx="8" fill="#eefaf2" stroke="#1f8a4c" stroke-width="1.6"></rect>
+<text x="460" y="58" text-anchor="middle" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">WORDS</text>
+<text x="460" y="78" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">smallest free-</text>
+<text x="460" y="92" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">standing unit</text>
+<text x="460" y="118" text-anchor="middle" font-size="11" font-style="italic" fill="#155c33" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">dogs</text>
+
+<rect x="547" y="34" width="174" height="105" rx="8" fill="#e9f7f6" stroke="#0f7c74" stroke-width="1.6"></rect>
+<text x="634" y="58" text-anchor="middle" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">PHRASES</text>
+<text x="634" y="78" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">a group of</text>
+<text x="634" y="92" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">words together</text>
+<text x="634" y="118" text-anchor="middle" font-size="11" font-style="italic" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">the dogs</text>
+
+<rect x="721" y="34" width="154" height="105" rx="8" fill="#fdecec" stroke="#c0392b" stroke-width="1.6"></rect>
+<text x="798" y="58" text-anchor="middle" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">SENTENCES</text>
+<text x="798" y="78" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">a complete</text>
+<text x="798" y="92" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">thought</text>
+<text x="798" y="112" text-anchor="middle" font-size="10.3" font-style="italic" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">The dogs bark</text>
+<text x="798" y="126" text-anchor="middle" font-size="10.3" font-style="italic" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">loudly.</text>
+</g>
+<g stroke="#13294b" stroke-width="1.6" marker-end="url(#ep7arr1)">
+<line x1="181" y1="86" x2="197" y2="86"></line><line x1="375" y1="86" x2="371" y2="86"></line>
+<line x1="549" y1="86" x2="545" y2="86"></line><line x1="723" y1="86" x2="719" y2="86"></line>
+</g>
+<text x="450" y="165" text-anchor="middle" font-size="12" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">smallest unit ──────────────────────────────────────────────▶ largest unit</text>
+<text x="450" y="190" text-anchor="middle" font-size="11.5" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Phonological rules combine phonemes into syllables/morphemes; morphological rules combine morphemes into words; syntax combines words into phrases/sentences.</text>
+</svg>

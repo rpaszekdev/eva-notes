@@ -1,0 +1,27 @@
+<svg width="640" height="210" viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep2arr1" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<g font-size="12" fill="#13294b">
+<rect x="10" y="40" width="140" height="70" rx="8" fill="#eef4fb" stroke="#13294b"></rect>
+<text x="80" y="62" text-anchor="middle" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">1 · Theorize</text>
+<text x="80" y="80" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">generate the idea,</text>
+<text x="80" y="95" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">keep it simple (Ockham)</text>
+<rect x="168" y="40" width="140" height="70" rx="8" fill="#fbf6e8" stroke="#c9a227"></rect>
+<text x="238" y="62" text-anchor="middle" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">2 · Hypothesis</text>
+<text x="238" y="80" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">falsifiable: “if … is true,</text>
+<text x="238" y="95" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">we should observe …”</text>
+<rect x="326" y="40" width="140" height="70" rx="8" fill="#e9f7f6" stroke="#0f7c74"></rect>
+<text x="396" y="62" text-anchor="middle" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">3 · Collect data</text>
+<text x="396" y="80" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">lab or real world;</text>
+<text x="396" y="95" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">concrete operationalization</text>
+<rect x="484" y="40" width="146" height="70" rx="8" fill="#eefaf2" stroke="#1f8a4c"></rect>
+<text x="557" y="62" text-anchor="middle" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">4 · Conclusions</text>
+<text x="557" y="80" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">fits → confirm theory</text>
+<text x="557" y="95" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">doesn't fit → falsified?</text>
+</g>
+<g stroke="#13294b" stroke-width="1.5" marker-end="url(#ep2arr1)">
+<line x1="152" y1="75" x2="164" y2="75"></line><line x1="310" y1="75" x2="322" y2="75"></line><line x1="468" y1="75" x2="480" y2="75"></line>
+</g>
+<path d="M557 114 L557 150 L80 150 L80 114" fill="none" stroke="#13294b" stroke-width="1.3" stroke-dasharray="5 4" marker-end="url(#ep2arr1)"></path>
+<text x="320" y="168" text-anchor="middle" font-size="11.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">…or the operationalization was wrong → adjust and start again</text>
+<text x="320" y="196" text-anchor="middle" font-size="12" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">The four steps of the scientific method.</text>
+</svg>

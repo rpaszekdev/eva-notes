@@ -1,0 +1,23 @@
+<svg width="640" height="250" viewBox="0 0 640 250" xmlns="http://www.w3.org/2000/svg">
+<text x="20" y="20" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Endogenous cue (an instruction — “look right”) — slow, needs a long SOA</text>
+<g font-size="11.5" fill="#13294b">
+<rect x="30" y="30" width="100" height="60" rx="6" fill="#fff" stroke="#cdd3dc"></rect><text x="80" y="66" text-anchor="middle" font-size="20" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">→</text>
+<rect x="170" y="30" width="100" height="60" rx="6" fill="#eefaf2" stroke="#1f8a4c"></rect><text x="220" y="56" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">target appears</text><text x="220" y="74" text-anchor="middle" font-weight="700" fill="#155c33" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">right = valid ✓ fast</text>
+<rect x="310" y="30" width="100" height="60" rx="6" fill="#fdecec" stroke="#c0392b"></rect><text x="360" y="56" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">target appears</text><text x="360" y="74" text-anchor="middle" font-weight="700" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">left = invalid ✗ slow</text>
+</g>
+<text x="20" y="124" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Exogenous cue (a sudden flash) — fast, works at short SOA</text>
+<g font-size="11.5" fill="#13294b">
+<rect x="30" y="134" width="100" height="60" rx="6" fill="#fff" stroke="#cdd3dc"></rect><circle cx="105" cy="164" r="12" fill="#c9a227"></circle><text x="62" y="168" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">flash →</text>
+<rect x="170" y="134" width="100" height="60" rx="6" fill="#eefaf2" stroke="#1f8a4c"></rect><text x="220" y="160" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">same place</text><text x="220" y="178" text-anchor="middle" font-weight="700" fill="#155c33" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">valid ✓ fast</text>
+<rect x="310" y="134" width="100" height="60" rx="6" fill="#fdecec" stroke="#c0392b"></rect><text x="360" y="160" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">other place</text><text x="360" y="178" text-anchor="middle" font-weight="700" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">invalid ✗ slow</text>
+</g>
+<rect x="440" y="30" width="180" height="164" rx="8" fill="#eef4fb" stroke="#1c5fb0"></rect>
+<text x="530" y="52" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Posner (1980)</text>
+<text x="530" y="74" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Attention has a <tspan font-weight="700">spatial</tspan> component:</text>
+<text x="530" y="90" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">attended locations are processed</text>
+<text x="530" y="106" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">better and faster.</text>
+<text x="530" y="130" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round"><tspan font-weight="700">Endogenous</tspan> = voluntary, slow</text>
+<text x="530" y="148" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round"><tspan font-weight="700">Exogenous</tspan> = automatic, fast</text>
+<text x="530" y="172" text-anchor="middle" font-size="11" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">SOA = time between cue and target</text>
+<text x="320" y="230" text-anchor="middle" font-size="11.5" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">A “cueing effect” = valid trials are faster than invalid trials.</text>
+</svg>

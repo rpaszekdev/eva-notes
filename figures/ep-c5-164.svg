@@ -1,0 +1,12 @@
+<svg width="682" height="250" viewBox="0 0 682 250" xmlns="http://www.w3.org/2000/svg">
+<line x1="70" y1="200" x2="600" y2="200" stroke="#13294b" stroke-width="1.5"></line>
+<line x1="70" y1="30" x2="70" y2="200" stroke="#13294b" stroke-width="1.5"></line>
+<path d="M85 60 C120 90 160 150 250 160 C330 168 400 166 470 150 C520 138 560 90 590 60" fill="none" stroke="#1c5fb0" stroke-width="2.6"></path>
+<text x="120" y="46" font-size="12" font-weight="700" fill="#1c5fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">primacy effect</text>
+<text x="120" y="62" font-size="10.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">first items → rehearsed into LTM</text>
+<text x="470" y="46" font-size="12" font-weight="700" fill="#1c5fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">recency effect</text>
+<text x="420" y="62" font-size="10.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">last items → still in sensory/short-term store</text>
+<text x="335" y="188" text-anchor="middle" font-size="11" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">middle items are remembered worst</text>
+<text x="335" y="228" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">position of the item in the list →</text>
+<text x="40" y="115" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" transform="rotate(-90 40 115)" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">% recalled</text>
+</svg>

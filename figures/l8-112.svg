@@ -1,0 +1,43 @@
+<svg width="640" height="340" viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="l8arr8" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#13294b"></path></marker></defs>
+<g stroke="#13294b" stroke-width="1.2" fill="#fff">
+<ellipse cx="95" cy="35" rx="90" ry="30" fill="#eef4fb"></ellipse>
+<ellipse cx="90" cy="100" rx="75" ry="22" fill="#eef4fb"></ellipse>
+<rect x="30" y="145" width="140" height="36" rx="4"></rect>
+<rect x="255" y="140" width="160" height="46" rx="4" stroke-width="2.4" fill="#fdecec"></rect>
+<rect x="265" y="50" width="140" height="40" rx="4"></rect>
+<rect x="475" y="12" width="155" height="34" rx="4" fill="#eefaf2"></rect>
+<rect x="475" y="64" width="155" height="34" rx="4" fill="#eefaf2"></rect>
+<rect x="475" y="138" width="155" height="48" rx="4"></rect>
+<rect x="455" y="218" width="160" height="40" rx="4"></rect>
+<rect x="20" y="290" width="150" height="40" rx="4" fill="#fbf6e8"></rect>
+<rect x="215" y="290" width="150" height="40" rx="4" fill="#fbf6e8"></rect>
+<rect x="465" y="290" width="140" height="40" rx="4" fill="#fbf6e8"></rect>
+</g>
+<g font-size="11" text-anchor="middle" fill="#13294b">
+<text x="95" y="30" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Sensitivity to respond</text><text x="95" y="44" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">to stress with depression</text>
+<text x="90" y="104" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Uninterested parents</text>
+<text x="100" y="167" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Low self-esteem</text>
+<text x="335" y="160" font-weight="700" font-size="12" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Anxious / depressive</text><text x="335" y="176" font-weight="700" font-size="12" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">feelings</text>
+<text x="335" y="67" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Crying, shouting,</text><text x="335" y="81" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">hitting</text>
+<text x="552" y="33" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Concern from spouse</text><text x="552" y="85" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Tension reduction</text>
+<text x="552" y="157" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Concentration problems,</text><text x="552" y="172" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">difficulties at work</text>
+<text x="535" y="235" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Worrying: loss of a</text><text x="535" y="249" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">sense of control</text>
+<text x="95" y="306" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Pressure, little</text><text x="95" y="320" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">relaxation</text>
+<text x="290" y="306" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Harsh, unfriendly</text><text x="290" y="320" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">people</text>
+<text x="535" y="314" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Conflicts</text>
+</g>
+<g stroke="#13294b" stroke-width="1.4" fill="none">
+<line x1="90" y1="122" x2="95" y2="143" marker-end="url(#l8arr8)"></line>
+<line x1="170" y1="163" x2="252" y2="163" marker-end="url(#l8arr8)"></line>
+<line x1="170" y1="52" x2="262" y2="142" marker-end="url(#l8arr8)"></line>
+<line x1="335" y1="140" x2="335" y2="92" marker-end="url(#l8arr8)"></line>
+<line x1="405" y1="62" x2="473" y2="34" marker-end="url(#l8arr8)"></line>
+<line x1="473" y1="81" x2="407" y2="78" marker-end="url(#l8arr8)"></line>
+<line x1="415" y1="163" x2="472" y2="163" marker-end="url(#l8arr8)"></line>
+<line x1="500" y1="218" x2="410" y2="188" marker-end="url(#l8arr8)"></line>
+<line x1="550" y1="218" x2="552" y2="189" marker-end="url(#l8arr8)"></line>
+<line x1="535" y1="290" x2="535" y2="261" marker-end="url(#l8arr8)"></line>
+<line x1="265" y1="290" x2="140" y2="183" marker-end="url(#l8arr8)"></line>
+<line x1="120" y1="290" x2="300" y2="92" marker-end="url(#l8arr8)"></line>
+</g></svg>

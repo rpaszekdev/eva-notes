@@ -1,0 +1,21 @@
+<svg width="620" height="300" viewBox="0 0 620 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="l9a4" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#c9a227"></path></marker></defs>
+<g font-size="12.5" font-weight="700">
+<rect x="20" y="8" width="330" height="32" rx="5" fill="#fff" stroke="#c9a227"></rect><text x="36" y="29" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">1 · Preparation for the advisory interview</text>
+<rect x="20" y="54" width="330" height="32" rx="5" fill="#fff" stroke="#c9a227"></rect><text x="36" y="75" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">2 · Providing information to the client</text>
+<rect x="20" y="100" width="330" height="32" rx="5" fill="#fff" stroke="#c9a227"></rect><text x="36" y="121" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">3 · Evaluation by the diagnostician</text>
+<rect x="20" y="146" width="330" height="32" rx="5" fill="#fff" stroke="#c9a227"></rect><text x="36" y="167" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">4 · Consultation about the recommendation</text>
+<rect x="20" y="192" width="330" height="32" rx="5" fill="#fff" stroke="#c9a227"></rect><text x="36" y="213" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">5 · Specify the chosen recommendation</text>
+<rect x="20" y="238" width="330" height="32" rx="5" fill="#fff" stroke="#c9a227"></rect><text x="36" y="259" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">6 · Closing</text>
+</g>
+<g stroke="#c9a227" stroke-width="1.5" marker-end="url(#l9a4)">
+<line x1="185" y1="40" x2="185" y2="52"></line><line x1="185" y1="86" x2="185" y2="98"></line><line x1="185" y1="132" x2="185" y2="144"></line><line x1="185" y1="178" x2="185" y2="190"></line><line x1="185" y1="224" x2="185" y2="236"></line>
+</g>
+<g font-size="11.5" font-weight="700">
+<text x="366" y="75" fill="#1c7fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">information mode</text>
+<text x="366" y="121" fill="#1c7fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">information mode</text>
+<text x="366" y="161" fill="#0f5f80" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">consensus mode</text><text x="366" y="176" fill="#0f5f80" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">+ influence mode</text>
+<text x="366" y="207" fill="#1c7fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">information mode</text><text x="366" y="222" fill="#1c7fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">+ consensus mode</text>
+<text x="366" y="253" fill="#1c7fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">information mode</text><text x="366" y="268" fill="#1c7fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">+ consensus mode</text>
+</g>
+</svg>

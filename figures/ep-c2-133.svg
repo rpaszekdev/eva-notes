@@ -1,0 +1,26 @@
+<svg width="640" height="220" viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep2arr2" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<text x="88" y="20" text-anchor="middle" font-size="11.5" font-weight="700" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">within-subjects</text>
+<text x="88" y="35" text-anchor="middle" font-size="11.5" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">measurement</text>
+<text x="320" y="20" text-anchor="middle" font-size="11.5" font-weight="700" fill="#c9a227" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">between-subjects</text>
+<text x="320" y="35" text-anchor="middle" font-size="11.5" fill="#c9a227" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">manipulation</text>
+<text x="556" y="20" text-anchor="middle" font-size="11.5" font-weight="700" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">within-subjects</text>
+<text x="556" y="35" text-anchor="middle" font-size="11.5" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">measurement</text>
+<rect x="14" y="80" width="148" height="52" rx="8" fill="#e9f7f6" stroke="#0f7c74"></rect>
+<text x="88" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Aggressive</text>
+<text x="88" y="121" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">behaviour (before)</text>
+<g font-size="11.5" fill="#13294b">
+<rect x="196" y="48" width="248" height="36" rx="7" fill="#fbf6e8" stroke="#c9a227"></rect><text x="320" y="70" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">1) non-violent TV, 2 h/day, 3 weeks</text>
+<rect x="196" y="90" width="248" height="36" rx="7" fill="#fbf6e8" stroke="#c9a227"></rect><text x="320" y="112" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">2) violent TV, 2 h/day, 3 weeks</text>
+<rect x="196" y="132" width="248" height="36" rx="7" fill="#fbf6e8" stroke="#c9a227"></rect><text x="320" y="154" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">3) non-violent books, 2 h/day, 3 weeks</text>
+</g>
+<rect x="478" y="80" width="148" height="52" rx="8" fill="#e9f7f6" stroke="#0f7c74"></rect>
+<text x="552" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Aggressive</text>
+<text x="552" y="121" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">behaviour (after)</text>
+<g stroke="#13294b" stroke-width="1.4" marker-end="url(#ep2arr2)">
+<line x1="164" y1="106" x2="192" y2="66"></line><line x1="164" y1="106" x2="192" y2="106"></line><line x1="164" y1="106" x2="192" y2="146"></line>
+<line x1="448" y1="66" x2="474" y2="100"></line><line x1="448" y1="106" x2="474" y2="106"></line><line x1="448" y1="146" x2="474" y2="112"></line>
+</g>
+<text x="320" y="196" text-anchor="middle" font-size="11.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">If <tspan font-weight="700">watching TV</tspan> causes aggression → both TV groups should rise more than the reading group.</text>
+<text x="320" y="212" text-anchor="middle" font-size="11.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">If <tspan font-weight="700">violent TV</tspan> causes aggression → only the violent-TV group should rise more.</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="667" height="150" viewBox="0 0 667 150" xmlns="http://www.w3.org/2000/svg">
+<line x1="20" y1="80" x2="620" y2="80" stroke="#c9a227" stroke-width="3"></line>
+<g font-size="11.5" fill="#13294b" text-anchor="middle">
+<circle cx="70" cy="80" r="6" fill="#13294b"></circle><text x="70" y="62" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Structuralism</text><text x="70" y="102" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Wundt · Titchener</text>
+<circle cx="215" cy="80" r="6" fill="#13294b"></circle><text x="215" y="62" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Functionalism</text><text x="215" y="102" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">James (after Darwin)</text>
+<circle cx="360" cy="80" r="6" fill="#13294b"></circle><text x="360" y="62" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Gestalt</text><text x="360" y="102" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Wertheimer · Köhler · Koffka</text>
+<circle cx="500" cy="80" r="6" fill="#13294b"></circle><text x="500" y="62" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Behaviourism</text><text x="500" y="102" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Watson · Pavlov · Skinner</text>
+<circle cx="600" cy="80" r="6" fill="#c0392b"></circle><text x="600" y="62" font-weight="700" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cognitive</text><text x="600" y="102" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">1970s →</text>
+</g>
+<text x="320" y="135" text-anchor="middle" font-size="12" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Each school is a reaction to the one before it: what should psychology study, and how?</text>
+</svg>

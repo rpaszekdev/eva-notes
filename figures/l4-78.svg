@@ -1,0 +1,16 @@
+<svg width="645" height="290" viewBox="0 0 645 290" xmlns="http://www.w3.org/2000/svg">
+<line x1="78" y1="18" x2="78" y2="238" stroke="#8a93a3" stroke-width="1.3"></line>
+<line x1="78" y1="130" x2="615" y2="127" stroke="#b9c0cc" stroke-width="1.2"></line>
+<g font-size="10.5" fill="#1f8a4c"><text x="6" y="28" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Positive</text><text x="6" y="41" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">experiences</text></g>
+<g font-size="10.5" fill="#c0392b"><text x="6" y="224" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Negative</text><text x="6" y="237" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">experiences</text></g>
+<path d="M80,130 C92,130 100,128 106,140 L115,162 C120,150 126,129 140,128 L184,126 C192,126 194,141 198,141 C203,120 205,76 210,70 C216,80 220,100 230,100 L242,100 C252,98 255,80 258,60 C261,42 266,35 280,35 L290,35 C305,40 320,120 340,185 C350,202 358,204 365,202 C372,207 378,216 385,213 C395,200 405,150 420,124 C430,108 440,114 445,140 L490,196 C520,180 560,140 600,113" fill="none" stroke="#13294b" stroke-width="2.3"></path>
+<g fill="#c9a227"><circle cx="115" cy="162" r="4"></circle><circle cx="210" cy="70" r="4"></circle><circle cx="280" cy="35" r="4"></circle><circle cx="365" cy="202" r="4"></circle><circle cx="490" cy="196" r="4"></circle><circle cx="600" cy="113" r="4"></circle></g>
+<g stroke="#c9a227" stroke-dasharray="3 3" stroke-width="1"><line x1="115" y1="166" x2="115" y2="248"></line><line x1="210" y1="74" x2="210" y2="248"></line><line x1="280" y1="39" x2="280" y2="248"></line><line x1="365" y1="206" x2="365" y2="248"></line><line x1="490" y1="200" x2="490" y2="248"></line><line x1="600" y1="117" x2="600" y2="248"></line></g>
+<g font-size="10.5" fill="#13294b" text-anchor="middle">
+<text x="115" y="262" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Father died</text><text x="115" y="276" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(age 2)</text>
+<text x="210" y="262" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Met Theo</text><text x="210" y="276" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(age 18)</text>
+<text x="280" y="262" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Married Theo</text><text x="280" y="276" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(1948)</text>
+<text x="365" y="262" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Illness began</text><text x="365" y="276" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(1960)</text>
+<text x="490" y="262" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Theo died</text><text x="490" y="276" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(2001)</text>
+<text x="600" y="262" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Here and now</text><text x="600" y="276" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(2006)</text></g>
+</svg>

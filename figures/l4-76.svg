@@ -1,0 +1,12 @@
+<svg width="620" height="225" viewBox="0 0 620 225" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="l4v_arr3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9a227"></path></marker></defs>
+<text x="310" y="22" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Client: “The girl next door quickly looks away when I meet her on the street.”</text>
+<g fill="#fbf6e8" stroke="#e7d9a8"><rect x="45" y="42" width="160" height="90" rx="5"></rect><rect x="230" y="42" width="160" height="90" rx="5"></rect><rect x="415" y="42" width="160" height="90" rx="5"></rect></g>
+<g font-size="13" font-weight="700" fill="#13294b"><text x="58" y="64" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Fact</text><text x="243" y="64" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Interpretation</text><text x="428" y="64" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Meaning</text></g>
+<g font-size="12.5" fill="#13294b"><text x="58" y="90" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">“She looked</text><text x="58" y="106" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">away.”</text>
+<text x="243" y="90" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">“She does not find</text><text x="243" y="106" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">me interesting.”</text>
+<text x="428" y="90" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">“Apparently, I am</text><text x="428" y="106" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">not worth it.”</text></g>
+<line x1="70" y1="156" x2="550" y2="156" stroke="#c9a227" stroke-width="2.5" marker-end="url(#l4v_arr3)"></line>
+<text x="310" y="176" text-anchor="middle" font-size="11" fill="#667" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">what happened → a guess about the other person → a conclusion about the self</text>
+<text x="310" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Possible question?</text>
+</svg>

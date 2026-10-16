@@ -1,0 +1,30 @@
+<svg width="640" height="250" viewBox="0 0 640 250" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arvcyc" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<rect x="12" y="28" width="196" height="150" rx="10" fill="#eef4fb" stroke="#1c5fb0"></rect>
+<text x="110" y="52" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cycle 1 · exceptions</text>
+<text x="110" y="76" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">habits stay the same</text>
+<text x="110" y="94" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">you act habitually until</text>
+<text x="110" y="112" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">something unexpected happens,</text>
+<text x="110" y="130" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">handle it attentively,</text>
+<text x="110" y="148" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">then back to the habit</text>
+<text x="110" y="168" text-anchor="middle" font-size="11" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">"where did I leave my keys?"</text>
+<rect x="222" y="28" width="196" height="150" rx="10" fill="#e9f7f6" stroke="#0f7c74"></rect>
+<text x="320" y="52" text-anchor="middle" font-size="12.5" font-weight="700" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cycle 2 · new habits</text>
+<text x="320" y="76" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">the environment changes,</text>
+<text x="320" y="94" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">so you must change habits</text>
+<text x="320" y="112" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">to be able to keep</text>
+<text x="320" y="130" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">acting habitually</text>
+<text x="320" y="168" text-anchor="middle" font-size="11" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">"attach the bike key to my house keys"</text>
+<rect x="432" y="28" width="196" height="150" rx="10" fill="#fbf6e8" stroke="#c9a227"></rect>
+<text x="530" y="52" text-anchor="middle" font-size="12.5" font-weight="700" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cycle 3 · existential</text>
+<text x="530" y="76" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">you change habits because</text>
+<text x="530" y="94" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">you are revising your</text>
+<text x="530" y="112" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">values and goals</text>
+<text x="530" y="130" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(what do I stand for?)</text>
+<text x="530" y="168" text-anchor="middle" font-size="11" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">"I realise some of my habits are unfair"</text>
+<line x1="208" y1="103" x2="220" y2="103" stroke="#13294b" stroke-width="1.6" marker-end="url(#arvcyc)"></line>
+<line x1="418" y1="103" x2="430" y2="103" stroke="#13294b" stroke-width="1.6" marker-end="url(#arvcyc)"></line>
+<text x="320" y="205" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">A pattern can undermine <tspan font-weight="700">any</tspan> of the three cycles — and the undermining factor can be</text>
+<text x="320" y="222" text-anchor="middle" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">biological, psychological or social (stress on the prefrontal cortex · confirmation bias · a group that discourages reflection).</text>
+<text x="320" y="240" text-anchor="middle" font-size="11" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">The cycles are not separate activities: while handling an exception you may notice you need new habits — or new values.</text>
+</svg>

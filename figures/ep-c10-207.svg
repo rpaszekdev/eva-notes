@@ -1,0 +1,18 @@
+<svg width="600" height="210" viewBox="0 0 600 210" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="ep10arr2" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker>
+<marker id="ep10arr3" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#c0392b"></path></marker>
+<marker id="ep10arr4" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#0f7c74"></path></marker>
+</defs>
+<rect x="20" y="110" width="90" height="40" rx="8" fill="#fff" stroke="#13294b"></rect><text x="65" y="134" text-anchor="middle" font-size="12" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Stimulus</text>
+<line x1="110" y1="130" x2="158" y2="130" stroke="#13294b" stroke-width="1.8" marker-end="url(#ep10arr2)"></line>
+<rect x="160" y="110" width="90" height="40" rx="8" fill="#eef4fb" stroke="#1c5fb0"></rect><text x="205" y="134" text-anchor="middle" font-size="12" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Thalamus</text>
+<line x1="250" y1="118" x2="316" y2="66" stroke="#0f7c74" stroke-width="2" marker-end="url(#ep10arr4)"></line>
+<text x="290" y="70" font-size="11" font-weight="700" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">SLOW</text>
+<rect x="320" y="30" width="150" height="40" rx="8" fill="#e9f7f6" stroke="#0f7c74"></rect><text x="395" y="47" text-anchor="middle" font-size="11" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cortex —</text><text x="395" y="62" text-anchor="middle" font-size="10.5" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">"what is this exactly?"</text>
+<line x1="410" y1="70" x2="450" y2="110" stroke="#0f7c74" stroke-width="2" marker-end="url(#ep10arr4)"></line>
+<line x1="250" y1="142" x2="450" y2="142" stroke="#c0392b" stroke-width="2.2" marker-end="url(#ep10arr3)"></line>
+<text x="330" y="158" text-anchor="middle" font-size="11" font-weight="700" fill="#7a231a" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">FAST — "good or bad?"</text>
+<rect x="460" y="110" width="120" height="40" rx="8" fill="#fdecec" stroke="#c0392b"></rect><text x="520" y="134" text-anchor="middle" font-size="12" fill="#7a231a" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Amygdala</text>
+<text x="520" y="185" text-anchor="middle" font-size="10.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">fear can start immediately</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+<g font-size="18" font-weight="700" fill="#fff" text-anchor="middle">
+<rect x="20" y="15" width="110" height="40" rx="4" fill="#0f8a8f"></rect><text x="75" y="41">Who</text>
+<rect x="20" y="70" width="110" height="40" rx="4" fill="#c9a227"></rect><text x="75" y="96">What</text>
+<rect x="20" y="125" width="110" height="40" rx="4" fill="#6b5b95"></rect><text x="75" y="151">When</text></g>
+<g fill="#fff" stroke="#d0d4dc"><rect x="145" y="15" width="445" height="40" rx="3"></rect><rect x="145" y="70" width="445" height="40" rx="3"></rect><rect x="145" y="125" width="445" height="40" rx="3"></rect></g>
+<g font-size="12" fill="#13294b"><text x="157" y="40" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">roles, rights, interests, perspectives</text>
+<text x="157" y="95" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">reason for referral, problem definition, previous care, expectations</text>
+<text x="157" y="150" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">why now, crisis/urgency, why this institution</text></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="713" height="260" viewBox="0 0 713 260" xmlns="http://www.w3.org/2000/svg">
+<line x1="60" y1="210" x2="580" y2="210" stroke="#13294b" stroke-width="1.5"></line>
+<line x1="60" y1="210" x2="60" y2="30" stroke="#13294b" stroke-width="1.5"></line>
+<path d="M60,120 C130,70 190,42 320,36 C420,32 500,29 580,27" fill="none" stroke="#0f7c74" stroke-width="2.6"></path>
+<path d="M60,202 C160,199 260,188 320,148 C400,92 480,48 580,34" fill="none" stroke="#c9a227" stroke-width="2.6"></path>
+<line x1="320" y1="30" x2="320" y2="210" stroke="#999" stroke-width="1.2" stroke-dasharray="4 3"></line>
+<text x="320" y="22" text-anchor="middle" font-size="10.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">same ambiguous sound, between "g" and "k"</text>
+<text x="415" y="60" font-size="11.5" font-weight="700" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">context "___iss" → heard as "k" (kiss is a word)</text>
+<text x="415" y="168" font-size="11.5" font-weight="700" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">context "___ift" → heard as "g" (gift is a word)</text>
+<text x="320" y="245" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">VOT: sound goes from short (like "g") to long (like "k") →</text>
+<text x="30" y="120" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" transform="rotate(-90 30 120)" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">% "k" responses</text>
+</svg>

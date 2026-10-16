@@ -1,0 +1,27 @@
+<svg width="560" height="330" viewBox="0 0 560 330" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="l8arr3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#13294b"></path></marker></defs>
+<g stroke="#13294b" stroke-width="1.3">
+<rect x="185" y="6" width="190" height="30" rx="5" fill="#fff"></rect>
+<rect x="195" y="58" width="170" height="30" rx="5" fill="#eef4fb"></rect>
+<rect x="215" y="112" width="130" height="32" rx="5" fill="#fdecec"></rect>
+<rect x="385" y="182" width="170" height="44" rx="5" fill="#fbf6e8"></rect>
+<rect x="5" y="182" width="170" height="44" rx="5" fill="#eef4fb"></rect>
+<rect x="160" y="270" width="240" height="52" rx="5" fill="#e9f7f6"></rect>
+</g>
+<g font-size="11.5" text-anchor="middle" fill="#13294b">
+<text x="280" y="26" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">1 · Internal / external trigger</text>
+<text x="280" y="78" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">3 · Perceived threat</text>
+<text x="280" y="133" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">2 · ANXIETY</text>
+<text x="470" y="200" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">4 · Physical / cognitive</text><text x="470" y="216" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">symptoms</text>
+<text x="90" y="200" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">5 · Misinterpretation</text><text x="90" y="216" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">("I'm having a heart attack")</text>
+<text x="280" y="290" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">6 · Avoidance &amp; safety behaviours</text><text x="280" y="306" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(incl. selective attention to the body)</text>
+</g>
+<g stroke="#13294b" stroke-width="1.5" fill="none">
+<line x1="280" y1="36" x2="280" y2="56" marker-end="url(#l8arr3)"></line>
+<line x1="280" y1="88" x2="280" y2="110" marker-end="url(#l8arr3)"></line>
+<path d="M345,130 Q440,140 465,180" marker-end="url(#l8arr3)"></path>
+<line x1="385" y1="206" x2="178" y2="206" marker-end="url(#l8arr3)"></line>
+<path d="M95,182 Q110,120 212,126" marker-end="url(#l8arr3)"></path>
+<path d="M160,300 Q60,290 70,230" marker-end="url(#l8arr3)"></path>
+<path d="M400,300 Q500,290 490,230" marker-end="url(#l8arr3)"></path>
+</g></svg>

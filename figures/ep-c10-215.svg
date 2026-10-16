@@ -1,0 +1,17 @@
+<svg width="490" height="270" viewBox="0 0 490 270" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep10arr5" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<rect x="50" y="30" width="110" height="190" fill="#fdecec" opacity="0.5"></rect>
+<rect x="160" y="30" width="150" height="190" fill="#fbf6e8" opacity="0.6"></rect>
+<rect x="310" y="30" width="110" height="190" fill="#fdecec" opacity="0.5"></rect>
+<line x1="50" y1="220" x2="428" y2="220" stroke="#13294b" stroke-width="1.6" marker-end="url(#ep10arr5)"></line>
+<line x1="50" y1="220" x2="50" y2="22" stroke="#13294b" stroke-width="1.6" marker-end="url(#ep10arr5)"></line>
+<path d="M60,205 C130,70 340,70 410,205" fill="none" stroke="#13294b" stroke-width="2.6"></path>
+<text x="484" y="216" text-anchor="end" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">arousal →</text>
+<text x="20" y="130" text-anchor="middle" font-size="11.5" fill="#333" transform="rotate(-90 20 130)" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">performance</text>
+<text x="105" y="240" text-anchor="middle" font-size="10.5" fill="#7a231a" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">too low</text>
+<text x="235" y="240" text-anchor="middle" font-size="10.5" font-weight="700" fill="#5a4500" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">optimal</text>
+<text x="365" y="240" text-anchor="middle" font-size="10.5" fill="#7a231a" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">too high</text>
+<text x="105" y="255" text-anchor="middle" font-size="9.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">bored, careless</text>
+<text x="235" y="255" text-anchor="middle" font-size="9.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">best performance</text>
+<text x="365" y="255" text-anchor="middle" font-size="9.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">panic, overload</text>
+</svg>

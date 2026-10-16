@@ -1,0 +1,13 @@
+<svg width="640" height="240" viewBox="0 0 640 240" xmlns="http://www.w3.org/2000/svg">
+<line x1="70" y1="200" x2="610" y2="200" stroke="#13294b" stroke-width="1.4"></line>
+<line x1="70" y1="30" x2="70" y2="200" stroke="#13294b" stroke-width="1.4"></line>
+<g font-size="10.5" fill="#555" text-anchor="end">
+<text x="64" y="44" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">awake</text><text x="64" y="72" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">REM</text><text x="64" y="100" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">1</text><text x="64" y="128" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">2</text><text x="64" y="156" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">3</text><text x="64" y="184" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">4</text>
+</g>
+<polyline points="80,40 110,100 130,128 160,184 200,184 210,128 240,72 260,72 280,128 320,156 350,156 360,128 380,72 420,72 440,128 470,128 480,72 530,72 545,100 570,72 600,44" fill="none" stroke="#1c5fb0" stroke-width="2.4"></polyline>
+<g fill="#c9a227" opacity=".35">
+<rect x="240" y="62" width="20" height="20"></rect><rect x="380" y="62" width="40" height="20"></rect><rect x="480" y="62" width="50" height="20"></rect><rect x="560" y="62" width="20" height="20"></rect>
+</g>
+<text x="340" y="226" text-anchor="middle" font-size="12" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">hours of sleep →</text>
+<text x="300" y="20" text-anchor="middle" font-size="11.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">REM periods (gold) start ~90–120 min after falling asleep and get <tspan font-weight="700">longer</tspan> towards morning</text>
+</svg>

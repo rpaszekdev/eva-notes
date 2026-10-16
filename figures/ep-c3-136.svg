@@ -1,0 +1,23 @@
+<svg width="640" height="200" viewBox="0 0 640 200" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep3arr1" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<g stroke="#0f7c74" stroke-width="2.2" fill="none">
+<path d="M120 100 L60 60"></path><path d="M60 60 L34 44"></path><path d="M60 60 L38 72"></path>
+<path d="M120 100 L62 104"></path><path d="M62 104 L34 96"></path><path d="M62 104 L36 116"></path>
+<path d="M120 100 L64 146"></path><path d="M64 146 L40 158"></path><path d="M64 146 L62 172"></path>
+</g>
+<circle cx="146" cy="100" r="30" fill="#eef4fb" stroke="#13294b" stroke-width="1.8"></circle>
+<circle cx="146" cy="100" r="11" fill="#13294b" opacity=".75"></circle>
+<line x1="176" y1="100" x2="470" y2="100" stroke="#c9a227" stroke-width="7" stroke-linecap="round"></line>
+<g fill="#fff" stroke="#c9a227" stroke-width="1.2">
+<ellipse cx="230" cy="100" rx="22" ry="11"></ellipse><ellipse cx="300" cy="100" rx="22" ry="11"></ellipse><ellipse cx="370" cy="100" rx="22" ry="11"></ellipse><ellipse cx="440" cy="100" rx="22" ry="11"></ellipse></g>
+<g stroke="#c9a227" stroke-width="2.2" fill="none"><path d="M470 100 L520 74"></path><path d="M470 100 L522 100"></path><path d="M470 100 L520 126"></path></g>
+<g fill="#c9a227"><circle cx="524" cy="72" r="6"></circle><circle cx="526" cy="100" r="6"></circle><circle cx="524" cy="128" r="6"></circle></g>
+<line x1="230" y1="140" x2="420" y2="140" stroke="#13294b" stroke-width="1.4" marker-end="url(#ep3arr1)" stroke-dasharray="5 4"></line>
+<text x="325" y="158" text-anchor="middle" font-size="11.5" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">direction of the signal</text>
+<text x="60" y="30" font-size="12.5" font-weight="700" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Dendrites (A in the exercise: many, short, branched)</text>
+<text x="60" y="46" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">they <tspan font-weight="700">receive</tspan> signals</text>
+<text x="330" y="80" font-size="12.5" font-weight="700" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Axon — one, long</text>
+<text x="330" y="188" font-size="11.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">it <tspan font-weight="700">transmits</tspan> the signal to the next cell</text>
+<text x="146" y="104" font-size="0" fill="none" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">cell body</text>
+<text x="146" y="148" text-anchor="middle" font-size="11.5" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">cell body</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="620" height="230" viewBox="0 0 620 230" xmlns="http://www.w3.org/2000/svg">
+<rect x="130" y="20" width="270" height="38" rx="8" fill="#eef4fb" stroke="#13294b"></rect><text x="265" y="44" text-anchor="middle" font-size="13" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Non-selective listening skills</text>
+<rect x="130" y="68" width="270" height="38" rx="8" fill="#eef4fb" stroke="#13294b"></rect><text x="265" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Selective listening skills</text>
+<rect x="130" y="124" width="270" height="38" rx="8" fill="#fbf6e8" stroke="#c9a227"></rect><text x="265" y="148" text-anchor="middle" font-size="13" font-weight="700" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Regulating skills</text>
+<rect x="130" y="172" width="270" height="38" rx="8" fill="#e9f7f6" stroke="#0f7c74"></rect><text x="265" y="196" text-anchor="middle" font-size="13" font-weight="700" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Nuancing skills</text>
+<path d="M410 22 L422 22 L422 104 L410 104" fill="none" stroke="#13294b" stroke-width="1.6"></path>
+<text x="430" y="52" font-size="11" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Goal: give the client space</text>
+<text x="430" y="67" font-size="11" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">to tell their story</text>
+<text x="430" y="82" font-size="11" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(active listening)</text>
+<path d="M410 126 L422 126 L422 160 L410 160" fill="none" stroke="#c9a227" stroke-width="1.6"></path>
+<text x="430" y="140" font-size="11" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Goal: clarity for client and</text>
+<text x="430" y="155" font-size="11" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">practitioner about how the</text>
+<text x="430" y="170" font-size="11" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">conversation is proceeding</text>
+<text x="8" y="196" font-size="10.5" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">bring in your own</text>
+<text x="8" y="211" font-size="10.5" fill="#0f7c74" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">view — only later</text>
+</svg>

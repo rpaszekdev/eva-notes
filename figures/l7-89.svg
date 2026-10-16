@@ -1,0 +1,27 @@
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="l7arr4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#13294b"></path></marker></defs>
+<g stroke-width="1.4">
+<rect x="8" y="88" width="148" height="80" rx="5" fill="#eef4fb" stroke="#1c5fb0"></rect>
+<rect x="190" y="84" width="176" height="92" rx="5" fill="#eef4fb" stroke="#1c5fb0"></rect>
+<rect x="160" y="210" width="160" height="80" rx="5" fill="#fdecec" stroke="#c0392b"></rect>
+<rect x="392" y="4" width="170" height="96" rx="5" fill="#eefaf2" stroke="#1f8a4c"></rect>
+<rect x="392" y="200" width="170" height="92" rx="5" fill="#fdecec" stroke="#c0392b"></rect>
+<rect x="580" y="88" width="114" height="84" rx="5" fill="#fbf6e8" stroke="#c9a227"></rect>
+</g>
+<g font-size="11" text-anchor="middle" fill="#13294b">
+<text x="82" y="106" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Family history</text><text x="82" y="122" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">mental disorders</text><text x="82" y="137" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">aggression / criminality</text><text x="82" y="152" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">suicide attempt / death</text>
+<text x="278" y="102" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Psychiatric factors</text><text x="278" y="117" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">mental disorders</text><text x="278" y="137" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Psychological factors</text><text x="278" y="152" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">impulsive, aggressive traits</text><text x="278" y="167" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">neurocognitive deficits</text>
+<text x="240" y="228" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Early stressors</text><text x="240" y="244" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">childhood abuse</text><text x="240" y="259" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">household dysfunction</text><text x="240" y="274" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">parental divorce</text>
+<text x="477" y="21" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Protective factors</text><text x="477" y="36" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">family support / children</text><text x="477" y="50" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">social support / networks</text><text x="477" y="64" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">religious affiliation</text><text x="477" y="78" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">psychological factors</text><text x="477" y="92" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">mental health treatment</text>
+<text x="477" y="218" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Negative life events</text><text x="477" y="234" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">traumatic experiences</text><text x="477" y="249" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">chronic illness / pain</text><text x="477" y="264" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">recent stressors</text><text x="477" y="279" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">situational factors</text>
+<text x="637" y="106" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Suicidal</text><text x="637" y="120" font-weight="700" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">behaviour</text><text x="637" y="136" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">ideation · plan</text><text x="637" y="151" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">attempt · death</text>
+</g>
+<g stroke="#13294b" stroke-width="1.5" fill="none">
+<line x1="156" y1="128" x2="187" y2="128" marker-end="url(#l7arr4)"></line>
+<line x1="172" y1="208" x2="172" y2="132" marker-end="url(#l7arr4)"></line>
+<line x1="366" y1="130" x2="577" y2="130" marker-end="url(#l7arr4)"></line>
+<line x1="477" y1="100" x2="477" y2="126" marker-end="url(#l7arr4)"></line>
+<line x1="477" y1="198" x2="477" y2="134" marker-end="url(#l7arr4)"></line>
+</g>
+<g font-size="10.5" font-weight="700"><text x="8" y="80" fill="#1c5fb0" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">VULNERABILITY FACTORS</text><text x="8" y="230" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">STRESSFUL</text><text x="8" y="244" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">LIFE EVENTS</text></g>
+</svg>

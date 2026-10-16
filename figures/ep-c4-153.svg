@@ -1,0 +1,18 @@
+<svg width="640" height="150" viewBox="0 0 640 150" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep4barr1" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<text x="320" y="14" text-anchor="middle" font-size="12.5" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">The auditory pathway: cochlea → A1</text>
+<text x="218" y="30" text-anchor="middle" font-size="9" font-weight="700" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">most fibers CROSS over</text>
+<g font-size="10.5" fill="#13294b">
+<rect x="20" y="42" width="90" height="50" rx="6" fill="#eef4fb" stroke="#1c5fb0"></rect><text x="65" y="71" text-anchor="middle" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cochlea</text>
+<rect x="122" y="42" width="90" height="50" rx="6" fill="#eef4fb" stroke="#1c5fb0"></rect><text x="167" y="63" text-anchor="middle" font-size="10" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Cochlear</text><text x="167" y="77" text-anchor="middle" font-size="10" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">nucleus</text>
+<rect x="224" y="42" width="90" height="50" rx="6" fill="#fbf6e8" stroke="#c9a227"></rect><text x="269" y="63" text-anchor="middle" font-size="10.5" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Superior</text><text x="269" y="77" text-anchor="middle" font-size="10.5" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">olive</text>
+<rect x="326" y="42" width="90" height="50" rx="6" fill="#eef4fb" stroke="#1c5fb0"></rect><text x="371" y="63" text-anchor="middle" font-size="9.8" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Inferior</text><text x="371" y="77" text-anchor="middle" font-size="9.8" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">colliculus</text>
+<rect x="428" y="42" width="90" height="50" rx="6" fill="#eef4fb" stroke="#1c5fb0"></rect><text x="473" y="63" text-anchor="middle" font-size="9.5" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Medial</text><text x="473" y="77" text-anchor="middle" font-size="9.5" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">geniculate</text>
+<rect x="530" y="42" width="90" height="50" rx="6" fill="#eefaf2" stroke="#1f8a4c"></rect><text x="575" y="63" text-anchor="middle" font-size="9.8" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Auditory</text><text x="575" y="77" text-anchor="middle" font-size="9.8" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">cortex (A1)</text>
+</g>
+<g stroke="#13294b" stroke-width="1.6" marker-end="url(#ep4barr1)">
+<line x1="110" y1="67" x2="121" y2="67"></line><line x1="212" y1="67" x2="223" y2="67"></line><line x1="314" y1="67" x2="325" y2="67"></line><line x1="416" y1="67" x2="427" y2="67"></line><line x1="518" y1="67" x2="529" y2="67"></line>
+</g>
+<text x="320" y="112" text-anchor="middle" font-size="9.5" font-weight="700" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Superior olive = FIRST point where both ears' input meets (needed for localization).</text>
+<text x="320" y="130" text-anchor="middle" font-size="9.5" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">The auditory nerve has ≈50,000 fibers; the place-code (tonotopic map) is kept all the way to A1.</text>
+</svg>

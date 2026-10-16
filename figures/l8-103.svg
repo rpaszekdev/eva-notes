@@ -1,0 +1,17 @@
+<svg width="600" height="290" viewBox="0 0 600 290" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="l8arr6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9a227"></path></marker></defs>
+<rect x="0" y="0" width="600" height="290" rx="8" fill="#13294b"></rect>
+<g font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle"><text x="150" y="24">Direct effect</text><text x="450" y="24">Mediation</text><text x="150" y="160">Moderation</text><text x="450" y="160">Mediated moderation</text></g>
+<g font-size="10.5" fill="#dfe6f2" text-anchor="middle"><text x="150" y="40">X directly affects Y</text><text x="450" y="40">X affects Y through a mediator M</text><text x="150" y="176">M changes the strength or direction of X→Y</text><text x="450" y="176">W moderates the effect of X on Y through M</text></g>
+<g font-size="13" font-weight="700" fill="#fff" text-anchor="middle">
+<text x="50" y="104">X</text><text x="250" y="104">Y</text>
+<text x="350" y="120">X</text><text x="550" y="120">Y</text><text x="450" y="68">M</text>
+<text x="50" y="260">X</text><text x="250" y="260">Y</text><text x="150" y="208">M</text>
+<text x="350" y="265">X</text><text x="550" y="265">Y</text><text x="450" y="210">M</text><text x="368" y="208">W</text>
+</g>
+<g stroke="#c9a227" stroke-width="1.8" fill="none">
+<line x1="62" y1="100" x2="238" y2="100" marker-end="url(#l8arr6)"></line>
+<line x1="362" y1="116" x2="538" y2="116" marker-end="url(#l8arr6)"></line><line x1="360" y1="108" x2="440" y2="72" marker-end="url(#l8arr6)"></line><line x1="460" y1="72" x2="540" y2="108" marker-end="url(#l8arr6)"></line>
+<line x1="62" y1="256" x2="238" y2="256" marker-end="url(#l8arr6)"></line><line x1="150" y1="214" x2="150" y2="250" marker-end="url(#l8arr6)"></line>
+<line x1="362" y1="261" x2="538" y2="261" marker-end="url(#l8arr6)"></line><line x1="360" y1="253" x2="440" y2="215" marker-end="url(#l8arr6)"></line><line x1="460" y1="215" x2="540" y2="253" marker-end="url(#l8arr6)"></line><line x1="372" y1="214" x2="395" y2="236" marker-end="url(#l8arr6)"></line>
+</g></svg>

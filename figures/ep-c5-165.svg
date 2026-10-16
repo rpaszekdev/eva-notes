@@ -1,0 +1,30 @@
+<svg width="640" height="280" viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ep5arr2" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#13294b"></path></marker></defs>
+<rect x="215" y="14" width="210" height="44" rx="8" fill="#eef4fb" stroke="#1c5fb0" stroke-width="1.8"></rect>
+<text x="320" y="34" text-anchor="middle" font-size="13" font-weight="700" fill="#13294b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Central executive</text>
+<text x="320" y="50" text-anchor="middle" font-size="11" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">attentional system: coordinates and controls</text>
+<g stroke="#13294b" stroke-width="1.5" marker-end="url(#ep5arr2)">
+<line x1="260" y1="60" x2="130" y2="96"></line><line x1="320" y1="60" x2="320" y2="96"></line><line x1="380" y1="60" x2="512" y2="96"></line>
+</g>
+<rect x="30" y="100" width="190" height="66" rx="8" fill="#eefaf2" stroke="#1f8a4c"></rect>
+<text x="125" y="122" text-anchor="middle" font-size="12.5" font-weight="700" fill="#155c33" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Visuospatial sketchpad</text>
+<text x="125" y="140" text-anchor="middle" font-size="11" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">brief store for visual and</text>
+<text x="125" y="155" text-anchor="middle" font-size="11" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">spatial information</text>
+<rect x="230" y="100" width="180" height="96" rx="8" fill="#fbf6e8" stroke="#c9a227"></rect>
+<text x="320" y="122" text-anchor="middle" font-size="12.5" font-weight="700" fill="#7a5c00" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Phonological loop</text>
+<rect x="242" y="132" width="76" height="50" rx="6" fill="#fff" stroke="#c9a227"></rect>
+<text x="280" y="152" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">articulatory</text>
+<text x="280" y="167" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">loop (rehearsal)</text>
+<rect x="324" y="132" width="76" height="50" rx="6" fill="#fff" stroke="#c9a227"></rect>
+<text x="362" y="152" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">acoustic store</text>
+<text x="362" y="167" text-anchor="middle" font-size="10.5" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">(~2 seconds)</text>
+<rect x="420" y="100" width="190" height="66" rx="8" fill="#e9f7f6" stroke="#0f7c74"></rect>
+<text x="515" y="122" text-anchor="middle" font-size="12.5" font-weight="700" fill="#0f5f59" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Episodic buffer</text>
+<text x="515" y="140" text-anchor="middle" font-size="11" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">temporary store where LTM</text>
+<text x="515" y="155" text-anchor="middle" font-size="11" fill="#333" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">information meets STM</text>
+<rect x="420" y="214" width="190" height="40" rx="8" fill="#fdecec" stroke="#c0392b"></rect>
+<text x="515" y="239" text-anchor="middle" font-size="12.5" font-weight="700" fill="#c0392b" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Long-term memory</text>
+<line x1="515" y1="170" x2="515" y2="210" stroke="#13294b" stroke-width="1.5" marker-end="url(#ep5arr2)"></line>
+<line x1="515" y1="210" x2="515" y2="172" stroke="#13294b" stroke-width="1.5" marker-end="url(#ep5arr2)"></line>
+<text x="320" y="274" text-anchor="middle" font-size="12" font-style="italic" fill="#555" paint-order="stroke" stroke="#fff" stroke-width="3.2" stroke-linejoin="round">Baddeley &amp; Hitch (1974): short-term memory is not a box, it is a workshop.</text>
+</svg>
